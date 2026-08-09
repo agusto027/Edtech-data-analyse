@@ -106,4 +106,5 @@ Data Sources
 
 ## 🔗 Important Links  
 
+<img width="899" height="1600" alt="WhatsApp Image 2026-08-09 at 16 48 28" src="https://github.com/user-attachments/assets/20ce0333-f018-421a-ba2e-d1ec37056185" />
 
