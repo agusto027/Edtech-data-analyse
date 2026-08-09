@@ -106,5 +106,5 @@ Data Sources
 
 ## 🔗 Important Links  
 
-(https://medium.com/@anupamdwivedi_63467/from-raw-rows-to-real-decisions-18c73f5e7734)
+Read the article here :  https://medium.com/@anupamdwivedi_63467/from-raw-rows-to-real-decisions-18c73f5e7734
 
